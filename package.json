@@ -1,0 +1,19 @@
+{
+  "name": "convert",
+  "version": "0.0.1",
+  "description": "convert html to pdf",
+  "keywords": [],
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.1.0",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "author": "jorisalbagnac",
+  "license": "",
+  "devDependencies": {}
+}
